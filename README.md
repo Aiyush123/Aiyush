@@ -67,7 +67,7 @@ Monitoring system performance every 2 seconds. Press Ctrl+C to stop.
 
 This will monitor the system and save the data in system_report.csv.
 
-**Option 4: live monitoring (real-time CLI graph wit)**
+**Option 4: live monitoring (real-time CLI graph)**
 
 Save the script monitor_visualization.sh
 give executable permission 
